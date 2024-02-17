@@ -123,7 +123,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Show more functions]**
+- [ ] **[Accept User's name]**
+- [ ] **[Accept User's Age]**
+- [ ] **[Personalize User's message]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
